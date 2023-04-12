@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.ecznt.productservice.ProductServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.761 s <<< FAILURE! - in com.ecznt.productservice.ProductServiceApplicationTests
+com.ecznt.productservice.ProductServiceApplicationTests  Time elapsed: 0.76 s  <<< ERROR!
+java.lang.IllegalStateException: Could not find a valid Docker environment. Please see logs and check configuration
+
